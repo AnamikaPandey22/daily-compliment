@@ -15,11 +15,14 @@ with open("README.md", "r", encoding="utf-8") as file:
 
 # Create the new compliment section
 new_section = f"""<!-- COMPLIMENT_START -->
-## 🌸 Today's Compliment
 
-> {today_compliment}
+## 💖 Today's Compliment
+
+> ✨ **{today_compliment}**
 
 📅 **Last Updated:** {today}
+
+🤖 *Updated automatically using GitHub Actions.*
 
 <!-- COMPLIMENT_END -->"""
 
