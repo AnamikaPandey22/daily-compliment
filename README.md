@@ -1,12 +1,25 @@
+<div align="center">
+
 # 🌸 Daily Compliment
 
-Welcome to my Daily Compliment project!
+### *A little positivity, automatically updated every day.*
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automated-success?style=for-the-badge&logo=githubactions)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge)
+
+</div>
+
+---
 
 <!-- COMPLIMENT_START -->
-## 🌸 Today's Compliment
-
-> Your future self is cheering for you. 🌼
-
-📅 **Last Updated:** 16 July 2026
-
+Loading...
 <!-- COMPLIMENT_END -->
+
+---
+
+<div align="center">
+
+⭐ If this made you smile, consider starring the repository!
+
+</div>
