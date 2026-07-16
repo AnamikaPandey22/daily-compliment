@@ -1,4 +1,5 @@
 import random
+from datetime import datetime
 
 # Read all compliments
 with open("compliments.txt", "r", encoding="utf-8") as file:
@@ -6,6 +7,7 @@ with open("compliments.txt", "r", encoding="utf-8") as file:
 
 # Pick a random compliment
 today_compliment = random.choice(compliments)
+today = datetime.now().strftime("%d %B %Y")
 
 # Read README
 with open("README.md", "r", encoding="utf-8") as file:
@@ -13,7 +15,12 @@ with open("README.md", "r", encoding="utf-8") as file:
 
 # Create the new compliment section
 new_section = f"""<!-- COMPLIMENT_START -->
+## 🌸 Today's Compliment
+
 > {today_compliment}
+
+📅 **Last Updated:** {today}
+
 <!-- COMPLIMENT_END -->"""
 
 # Replace the old section
