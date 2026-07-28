@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **Your persistence is your superpower. ✨**
+> ✨ **You make the world a little brighter. ✨**
 
-📅 **Last Updated:** 27 July 2026
+📅 **Last Updated:** 28 July 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
