@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **You are capable of amazing things. 🌸**
+> ✨ **You make the world a little brighter. ✨**
 
-📅 **Last Updated:** 11 August 2026
+📅 **Last Updated:** 12 August 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
