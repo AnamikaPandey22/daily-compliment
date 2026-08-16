@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **Your future self is cheering for you. 🌼**
+> ✨ **You are capable of amazing things. 🌸**
 
-📅 **Last Updated:** 15 August 2026
+📅 **Last Updated:** 16 August 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
