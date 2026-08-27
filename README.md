@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **Keep going, you're doing great. 💖**
+> ✨ **You make the world a little brighter. ✨**
 
-📅 **Last Updated:** 26 August 2026
+📅 **Last Updated:** 27 August 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
