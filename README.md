@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **You are capable of amazing things. 🌸**
+> ✨ **Keep going, you're doing great. 💖**
 
-📅 **Last Updated:** 20 October 2026
+📅 **Last Updated:** 21 October 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
