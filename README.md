@@ -16,9 +16,9 @@
 
 ## 💖 Today's Compliment
 
-> ✨ **Every small step counts. 🎉**
+> ✨ **Your persistence is your superpower. ✨**
 
-📅 **Last Updated:** 24 November 2026
+📅 **Last Updated:** 25 November 2026
 
 🤖 *Updated automatically using GitHub Actions.*
 
